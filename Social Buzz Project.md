@@ -15,3 +15,10 @@ Analysis of sample data sets with visualizations to understand the popularity of
 SAMPLE DATA SETS
 7 data sets - each data set contains different columns and values
 A data model - showing the relationships between all of the data sets, as well as any links that you can use to merge tables.
+
+
+DATA CLEANING
+      1.Removing rows that have values which are missing.
+       2.Changing the data type of some values within a column, and removing column which are not relevant to this task.
+
+ 
