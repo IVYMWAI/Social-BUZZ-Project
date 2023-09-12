@@ -21,4 +21,7 @@ DATA CLEANING
       1.Removing rows that have values which are missing.
        2.Changing the data type of some values within a column, and removing column which are not relevant to this task.
 
+DATA MODELLING
+To figure out the top 5 categories with the larget popularity.
+
  
